@@ -1,6 +1,7 @@
 # Beam_Deflection_Calculator
 This an innovative assignment for my course CS1205 (Programming In Python)
-#PROBLEM STATEMENT: 
+
+PROBLEM STATEMENT: 
 BEAM DEFLECTION ANALYSIS USING PYTHON (MATPLOTLIB & SCIPY) 
  
 Structural analysis is essential for predicting how beams deform under load. Manual 
